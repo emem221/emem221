@@ -4,7 +4,7 @@ I'm Emem, a Frontend Developer/UX Designer.
 
 **Some stuff about me:**
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px">
 
 - :computer: I’m currently working on cool :wink:;
 - 🌱 I’m currently learning and contributing to everything frontend development;
